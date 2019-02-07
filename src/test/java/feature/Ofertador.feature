@@ -189,16 +189,3 @@ Feature: Call API Ofertador
       | 17134262 | cencosud   | 1235       | 2030000   | 0        |
       | 12055726 | mastercard | 1235       | 2590000   | 720000   |
       | 8264696  | cencosud   | 1235       | 0         | 0        |
-
-
-  Scenario Outline:: Sexo: F, Rango etario: 1
-    * url 'https://api-interna.uat.rfsc.cencosud.cl:8443/api/v1.0/ofertador/banners/banner'
-    * header Authorization = 'Bearer ' + accessToken
-    * request {"rut" : '<rut>',"cardType"  : '<cardType>',"cardAmount"  : '<cardAmount>',"saeAmount"  : '<saeAmount>', "aeAmount"  : '<aeAmount>' }
-    * method post
-    * status 200
-    * match varBanner
-    Examples:
-      | rut      | cardType | cardAmount | saeAmount | aeAmount |
-      | 16335202 | paris    | 1235       | 0         | 15000000 |
-      | 16145990 | cencosud | 1235       | 0         | 340000   |
