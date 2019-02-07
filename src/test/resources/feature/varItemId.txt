@@ -1,0 +1,12 @@
+[
+  "REACTIVACION",
+  "Pago Automático (PAT)",
+  "SUPER AVANCE ",
+  "AVANCE EN EFECTIVO",
+  "Usa tu Tarjeta este mes",
+  "CAMBIA TU TARJETA",
+  "ADICIONAL",
+  "De 6 a 48 cuotas",
+  "Y te devolvemos $10.000",
+  "Seguro de Auto Full Cobertura"
+]

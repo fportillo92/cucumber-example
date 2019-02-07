@@ -1,0 +1,14 @@
+﻿[
+"Si compras más de $80.000",
+"Cumple tu sueño,  tienes un monto pre-aprobado de " ,
+"¡Relájate!, tienes un monto pre-aprobado de " , 
+"Para lo que necesites, tienes un monto pre-aprobado de " , 
+"Usa tu Tarjeta este mes" , 
+"Tienes una tasa exclusiva de 0,99% en tu Super Avance" , 
+"Tienes un monto pre-aprobado de " , 
+"Tarjeta Scotiabank Cencosud mastercard" , 
+"Obtén 1.000 puntos extra por cuenta inscrita" , 
+"Los mismos beneficios de tu Tarjeta a quien tu quieras" ,
+"¡Despreocúpate! Reordena tu deuda" , 
+"Contrata tu seguro con 15 asistencias incluídas"
+]

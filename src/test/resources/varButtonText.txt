@@ -1,0 +1,8 @@
+﻿[
+  "Simula Aquí",
+  "Activa tu promoción",
+  "Pídelo Aquí",
+  "Ver condiciones aquí",
+  "Inscribe tus cuentas aquí",
+  "Ver mas aquí"
+]
