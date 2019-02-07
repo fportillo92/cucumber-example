@@ -1,8 +1,8 @@
 # Pruebas de API Automatizadas: Proyecto Ofertador
 
-Debido al diseÒo y la criticidad del proyecto es necesario automatizar las pruebas de dicha API para garantizar la continuidad, apoyar al equipo en el desarrollo, y respaldar las reglas de negocios que vinculan dicho proyecto.
+Debido al dise√±o y la criticidad del proyecto es necesario automatizar las pruebas de dicha API para garantizar la continuidad, apoyar al equipo en el desarrollo, y respaldar las reglas de negocios que vinculan dicho proyecto.
 
-## DiseÒo
+## Dise√±o
 
 El proyecto esta basado en [KarateDSL](https://github.com/intuit/karate). KarateDSL es una herramienta opensource creada para automatizar pruebas a nivel de API basado en sintaxis de BDD y que aprovecha todos las caracteristicas de [Cucumber](https://cucumber.io/). 
 
@@ -13,7 +13,7 @@ Para poder ejecutar el proyecto en tu equipo local debes tener instalado y confi
 - IntelliJ -> [Descargar](https://www.jetbrains.com/idea/)
 
 
-## EjecuciÛn
+## Ejecuci√≥n
 Para correr las pruebas debes inicialmente importar el proyecto al IntelliJ.
 
 Una vez que el IDE haya indexado los archivos hay tres maneras de ejecutar las pruebas:
@@ -22,10 +22,10 @@ Una vez que el IDE haya indexado los archivos hay tres maneras de ejecutar las p
 ```bash
 ./gradlew test -Dtest=Runner
 ```
-- Û simplemente instalando un [plugin de Cucumber](https://plugins.jetbrains.com/plugin/7212-cucumber-for-java) al IDE y ejecutas el archivo ".feature"
+- √≥ simplemente instalando un [plugin de Cucumber](https://plugins.jetbrains.com/plugin/7212-cucumber-for-java) al IDE y ejecutas el archivo ".feature"
 
 ## Info Adicional
-- El proyecto tiene un archivo llamado "karate-config.js" donde est· declarado los endpoints (URL de UAT).
+- El proyecto tiene un archivo llamado "karate-config.js" donde est√° declarado los endpoints (URL de UAT).
 - Una vez finalizadas las pruebas se crea un reporte automatico en la carpeta "target"
 - Si deseas ejecutar los test de forma paralela (para disminuir los tiempo) puedes ejecutar el archivo "RunParallel.java"
 ```bash
